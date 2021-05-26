@@ -23,18 +23,18 @@ const Contact = () => ({
         <PortfolioWrapper>
           <PortfolioCard>
             <PortfolioIcon src={Icon1} />
-            <a href='https://infinite-lowlands-76487.herokuapp.com/login'>Pawsperity</a>
+            <a href='https://infinite-lowlands-76487.herokuapp.com/login'>Legend of Worda</a>
             {/* <PortfolioH2>Pawsperity</PortfolioH2> */}
             <PortfolioP>
-              Supporting a healthy life for your pet.
+              The ancient meanings behind magical words.
             </PortfolioP>
           </PortfolioCard>
           <PortfolioCard>
             <PortfolioIcon src={Icon2} />
-            <a href="https://kjwallac.github.io/BusyParentScheduler/calendar.html">Busy Parent Scheduler</a>
+            <a href="https://kjwallac.github.io/BusyParentScheduler/calendar.html">Release the Kringle!</a>
             {/* <PortfolioH2>Busy Parent Scheduler</PortfolioH2> */}
             <PortfolioP>
-              Need help with your hectic schedule?
+              The best way to get a kringle in your stomach.
             </PortfolioP>
           </PortfolioCard>
 
