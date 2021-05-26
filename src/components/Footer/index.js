@@ -17,15 +17,15 @@ const Footer = () => {
         <FooterLinksContainer>
           <FooterLinksWrapper>
             <SocialIcons>
-              <SocialIconLink 
-                href="https://www.linkedin.com/in/eric-t-nguyen-1b1bbb173/" 
-                target="_blank" 
+              <SocialIconLink
+                href="https://www.linkedin.com/in/brettroeder/"
+                target="_blank"
                 aria-label="LinkedIn">
                 <FaLinkedin />
               </SocialIconLink>
-              <SocialIconLink 
-                href="https://github.com/mirewolf" 
-                target="_blank" 
+              <SocialIconLink
+                href="https://github.com/mirewolf"
+                target="_blank"
                 aria-label="Github">
                 <FaGithub />
               </SocialIconLink>
