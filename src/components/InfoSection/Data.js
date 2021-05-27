@@ -4,16 +4,16 @@ export const homeObjOne = {
   lightText: true,
   lightTextDesc: true,
   topLine: 'Brett Roeder',
-  headline: 'Understanding the Journey',
-  description: 'I am a Full Stack Web Developer leveraging a background in sales and customer service. Recognized for innovation and a keen eye for easthetics and presentation. I pride myself in interpersonal communication and collaboration skills while enjoying working in team-based projects as well as independently.',
+  headline: 'Graphic Designer and Now Fullstacakin.',
+  description: 'I have moonlighted as a graphic designer/artist for some time now. With clients ranging from zoos to government animal sanctuaries. I acquired my full stack engineering certificate from UCI.',
   // buttonLabel: 'More Info',
   imgStart: true,
   img: require('../../images/svg-landscape.svg.svg').default,
   alt: 'test',
-  dark: true, 
+  dark: true,
   primary: true,
   darkText: false
-};   
+};
 
 // export const homeObjTwo = {
 //   id: 'discover',
@@ -27,10 +27,10 @@ export const homeObjOne = {
 //   imgStart: true,
 //   img: require('../../images/svg-rocket-space.svg.svg').default,
 //   alt: 'test',
-//   dark: true, 
+//   dark: true,
 //   primary: true,
 //   darkText: false
-// };   
+// };
 
 // TODO use a different font
 export const homeObjThree = {
@@ -46,8 +46,8 @@ export const homeObjThree = {
   imgStart: false,
   img: require('../../images/svg-arcade.svg.svg').default,
   alt: 'Paper',
-  dark: false, 
+  dark: false,
   primary: false,
   darkText: true
 
-};   
+};
